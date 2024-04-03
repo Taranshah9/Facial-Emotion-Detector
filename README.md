@@ -6,4 +6,4 @@ https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-datase
 # Result
 This model used CNN and ran for 100 epochs, giving an accuracy of 72% on the training data.<br /> It is able to accurately detect the face in a frame and detect the emotions. <br />
 ![happy detection](https://github.com/TaranShah9/Facial-Emotion-Detector/blob/main/happy.png?raw=true)
-
+![neutral detection](https://github.com/TaranShah9/Facial-Emotion-Detector/blob/main/neutral.png?raw=true)
